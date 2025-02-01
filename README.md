@@ -7,11 +7,9 @@
 
 ## Screenshots
 
-### Idea Generation Interface
-![Idea Generation Interface](./public/img1.png)
-
-### Detailed Suggestions
-![Detailed Suggestions](./public/img2.png)
+### AI Tutor Interface
+![ AI Tutor Interface1](./public/img1.png)
+![ AI Tutor Interface2](./public/img2.png)
 
 ---
 
